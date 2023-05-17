@@ -3,6 +3,7 @@ description: Web platform implementation of the wakelock_platform_interface for 
 version: 0.4.0
 repository: https://github.com/creativecreatorormaybenot/wakelock/tree/main/wakelock_web
 
+publish_to: 'none'
 environment:
   sdk: '>=3.0.0 <4.0.0'
   flutter: '>=1.24.0-0'
