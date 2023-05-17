@@ -34,9 +34,6 @@ dependencies:
       path: wakelock_windows/
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
-
   flutter_lints: ^1.0.4
   pigeon: ^1.0.2 # flutter pub run pigeon --input "pigeons/messages.dart"
 
